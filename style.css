@@ -1,0 +1,30 @@
+body{
+  background-image: url(./Imagens/trybe.png);
+  background-repeat: no-repeat;
+  
+}
+header{
+  background-color: chartreuse;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+img{float: left;
+width: 150px;
+height: 200px;
+border: 1px;
+padding-right: 200px;
+margin-left: 600px;
+}
+
+
+footer{
+  background-color: chartreuse;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  
+}
+.b{float: left;}
